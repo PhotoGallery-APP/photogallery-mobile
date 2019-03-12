@@ -1,4 +1,4 @@
-<h1>Web app - photogallery </h1>
+<h1>Mobile app - photogallery </h1>
 
 
 <span> This source code is under <b> MIT </b> licence.
